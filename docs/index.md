@@ -11,7 +11,7 @@
 ## What
 - Tool für Vermittler
 - Unterstützung des Vertriebs durch einen Fragebogen zum Thema "nachhaltige Anlagen" und eine zugehörige Website
-
+[photo1]: https://images.pexels.com/photos/6446709/pexels-photo-6446709.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 
 
 You can use the [editor on GitHub](https://github.com/dhbw-de/GreenInvest/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
