@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.pexels.com/de-de/foto/macbook-pro-auf-grunem-tisch-6446709/)
+[Link](url) and ![Image](https://images.pexels.com/photos/6446709/pexels-photo-6446709.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
