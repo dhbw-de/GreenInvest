@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
-
+hahsdhas
+hsadhasdha
+Steigende gesetzliche Anforderungen (Richtlinie 2019/2088) fordern von der Finanzbranche Offenlegungspflichten und stärkere Beratung im Bezug auf Nachhaltigkeit
+Nachhaltigkeitsgedanken im Anlagenbereich dem Kunden näher bringen
 You can use the [editor on GitHub](https://github.com/dhbw-de/GreenInvest/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
