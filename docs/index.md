@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
-hahsdhas
-hsadhasdha
-Steigende gesetzliche Anforderungen (Richtlinie 2019/2088) fordern von der Finanzbranche Offenlegungspflichten und stärkere Beratung im Bezug auf Nachhaltigkeit
-Nachhaltigkeitsgedanken im Anlagenbereich dem Kunden näher bringen
+# GreenInvest für ein besseres Morgen
+
+## Why
+- Steigende gesetzliche Anforderungen (Richtlinie 2019/2088) fordern von der Finanzbranche Offenlegungspflichten und stärkere Beratung im Bezug auf Nachhaltigkeit
+- Nachhaltigkeitsgedanken im Anlagenbereich dem Kunden näher bringen
+
+## How
+- Wir unterscheiden uns von anderen, indem wir Maklern & Vermittlern helfen die steigenden gesetzlichen Anforderungen in der Finanzbranche umzusetzen
+- Unser Tool zur Ermittlung der Anlagepräferenzen mit besonderem Fokus auf Nachhaltigkeitskriterien ist immer up-to-date und bietet einen herausragenden Service zur Umsetzung von aktuellen und zukünftigen Anforderungen
+
+## What
+- Tool für Vermittler
+- Unterstützung des Vertriebs durch einen Fragebogen zum Thema "nachhaltige Anlagen" und eine zugehörige Website
+
+
+
 You can use the [editor on GitHub](https://github.com/dhbw-de/GreenInvest/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -26,7 +37,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.pexels.com/de-de/foto/macbook-pro-auf-grunem-tisch-6446709/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
