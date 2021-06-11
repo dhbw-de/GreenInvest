@@ -22,3 +22,7 @@ Machen Sie Schluss mit Ihrer Unsicherheit. Unser Tool hilft Ihnen dabei die gese
 - Monatliches Abonnement und Zahlung eines Pauschalbetrag von **29 Cent** pro Anwendung beim Kunden.
 - Bei Abschluss des Abo's bis einschließlich **01.Juli. 2021** können Sie sich einen exklusiven Rabatt in Höhe von 10% sichern. Seien Sie schnell und werden Sie Teil unserer Initiative für eine nachhaltiger Umwelt.
 
+## Fragebogen
+
+[Fragebogen](https://dhbw-de.github.io/GreenInvest/questions.html)
+
